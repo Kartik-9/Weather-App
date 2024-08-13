@@ -1,1 +1,1 @@
-# Weather-App
+You can quickly find out the weather in any city with this Weather Web Application. It boasts a clean design that responds well The app — developed using HTML CSS JavaScript and React.js — retrieves its data from the OpenWeatherMap, API. It shows details about the current weather which include temperature and wind speed. Users can enter a city to get weather information, and see forecasts for the next four days To use the app on your machine copy, the repository add the necessary dependencies set up your API key, and then start the development server.
